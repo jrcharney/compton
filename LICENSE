@@ -1,11 +1,12 @@
-compton - a compositor for X11
+pasadena - a fork of Compton, Christopher Jeffrey X11 compositor
 
 Contributors
 
 Based on xcompmgr, originally written by Keith Packard, with modifications
 from several contributors (according to the xcompmgr man page): Matthew Allum,
 Eric Anholt, Dan Doel, Thomas Luebking, Matthew Hawn, Ely Levy, Phil Blundell,
-and Carl Worth. Menu transparency was implemented by Dana Jansens.
+and Carl Worth. Menu transparency was implemented by Dana Jansens.  Patched up 
+by Christopher Jeffrey, and slimmed down by me, Jason Charney.
 
 Numerous contributions to compton from Richard Grenville.
 
@@ -31,9 +32,7 @@ DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
 TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
 PERFORMANCE OF THIS SOFTWARE.
 
-compton
-
-Copyright (c) 2011, Christopher Jeffrey (github.com/chjj)
+Copyright (c) 2015, Jason Charney (github.com/jrcharney)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
